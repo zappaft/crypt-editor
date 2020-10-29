@@ -1,0 +1,1 @@
+Just trying Qt and it's ui designer
